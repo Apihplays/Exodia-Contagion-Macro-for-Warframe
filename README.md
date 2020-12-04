@@ -2,9 +2,9 @@
 
 Pre-requisite
 Setting your X-Mouse Button Control same as the picture shown here
-![gambor](https://imgur.com/gallery/D1duBQd)
+![gambor](https://i.imgur.com/aMRexxv.png)
 
-![gambor2](https://imgur.com/gallery/M4pTRoh)
+![gambor2](https://i.imgur.com/9QCQQ2r.png)
 
 Enjoy spamming Zaw's Projectile
 
